@@ -34,6 +34,10 @@ This is a 2D engine developed for ease of use. The idea behind the engine itself
 
 ## Documentation
 
+Not all documentation has been added. More documentation will be added slowly.
+
+Any documentation that I find invalid or poorly documented will be re-done once all documentation has been added.
+
 ## Runner.java:
 
 - Main file for the engine.
