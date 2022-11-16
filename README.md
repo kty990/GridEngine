@@ -22,7 +22,9 @@ This is a 2D engine developed for ease of use. The idea behind the engine itself
 
 [Runner](https://github.com/kty990/GridEngine/blob/main/README.md#class-runner)
 
-[Screen](https://github.com/kty990/GridEngine/blob/main/README.md#class-drawcomparator)
+[Draw Comparator](https://github.com/kty990/GridEngine/blob/main/README.md#class-drawcomparator)
+
+[Screen](https://github.com/kty990/GridEngine/blob/main/README.md#class-screen)
 
 [Sprite.java](https://github.com/kty990/GridEngine/blob/main/README.md#class-sprite)
 
