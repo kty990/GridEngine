@@ -11,11 +11,11 @@ This is a 2D engine developed for ease of use. The idea behind the engine itself
 
 [Runner.java](https://github.com/kty990/GridEngine/blob/main/README.md#runnerjava)
 
-[Screen.java](https://github.com/kty990/GridEngine/edit/main/README.md#screenjava)
+[Screen.java](https://github.com/kty990/GridEngine/blob/main/README.md#screenjava)
 
-[Sprite.java](https://github.com/kty990/GridEngine/edit/main/README.md#spritejava)
+[Sprite.java](https://github.com/kty990/GridEngine/blob/main/README.md#spritejava)
 
-[SpriteSheet.java](https://github.com/kty990/GridEngine/edit/main/README.md#spritesheetjava)
+[SpriteSheet.java](https://github.com/kty990/GridEngine/blob/main/README.md#spritesheetjava)
 
 
 ### CLASS DOCUMENTATION
