@@ -2,7 +2,7 @@
 
 ---
 
-This is a 2D engine developed for ease of use. The idea behind the engine itself is to allow 'grid-like' snapping for player position, but not require it.
+This is a 2D java game engine developed for ease of use. The idea behind the engine itself is to allow 'grid-like' snapping for player position, but not require it.
 - There will still be fluid motion available for use.
 
 ## Table of Contents:
