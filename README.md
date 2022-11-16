@@ -7,6 +7,8 @@ This is a 2D engine developed for ease of use. The idea behind the engine itself
 
 ## Table of Contents:
 
+### FILE DOCUMENTATION
+
 [Runner.java](https://github.com/kty990/GridEngine/blob/main/README.md#runnerjava)
 
 [Screen.java](https://github.com/kty990/GridEngine/edit/main/README.md#screenjava)
@@ -15,6 +17,10 @@ This is a 2D engine developed for ease of use. The idea behind the engine itself
 
 [SpriteSheet.java](https://github.com/kty990/GridEngine/edit/main/README.md#spritesheetjava)
 
+
+### CLASS DOCUMENTATION
+
+- n/a
 
 ---
 
