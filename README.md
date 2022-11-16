@@ -9,26 +9,26 @@ This is a 2D engine developed for ease of use. The idea behind the engine itself
 
 ### FILE DOCUMENTATION
 
-[Runner.java](https://github.com/kty990/GridEngine/blob/main/README.md#runnerjava)
+- [Runner.java](https://github.com/kty990/GridEngine/blob/main/README.md#runnerjava)
 
-[Screen.java](https://github.com/kty990/GridEngine/blob/main/README.md#screenjava)
+- [Screen.java](https://github.com/kty990/GridEngine/blob/main/README.md#screenjava)
 
-[Sprite.java](https://github.com/kty990/GridEngine/blob/main/README.md#spritejava)
+- [Sprite.java](https://github.com/kty990/GridEngine/blob/main/README.md#spritejava)
 
-[SpriteSheet.java](https://github.com/kty990/GridEngine/blob/main/README.md#spritesheetjava)
+- [SpriteSheet.java](https://github.com/kty990/GridEngine/blob/main/README.md#spritesheetjava)
 
 
 ### CLASS DOCUMENTATION
 
-[Runner](https://github.com/kty990/GridEngine/blob/main/README.md#class-runner)
+- [Runner](https://github.com/kty990/GridEngine/blob/main/README.md#class-runner)
 
-[Draw Comparator](https://github.com/kty990/GridEngine/blob/main/README.md#class-drawcomparator)
+- [Draw Comparator](https://github.com/kty990/GridEngine/blob/main/README.md#class-drawcomparator)
 
-[Screen](https://github.com/kty990/GridEngine/blob/main/README.md#class-screen)
+- [Screen](https://github.com/kty990/GridEngine/blob/main/README.md#class-screen)
 
-[Sprite](https://github.com/kty990/GridEngine/blob/main/README.md#class-sprite)
+- [Sprite](https://github.com/kty990/GridEngine/blob/main/README.md#class-sprite)
 
-[SpriteSheet](https://github.com/kty990/GridEngine/blob/main/README.md#class-spritesheet)
+- [SpriteSheet](https://github.com/kty990/GridEngine/blob/main/README.md#class-spritesheet)
 
 ---
 
