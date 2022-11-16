@@ -5,6 +5,17 @@
 This is a 2D engine developed for ease of use. The idea behind the engine itself is to allow 'grid-like' snapping for player position, but not require it.
 - There will still be fluid motion available for use.
 
+## Table of Contents:
+
+[Runner.java](https://github.com/kty990/GridEngine/blob/main/README.md#runnerjava)
+
+[Screen.java](https://github.com/kty990/GridEngine/edit/main/README.md#screenjava)
+
+[Sprite.java](https://github.com/kty990/GridEngine/edit/main/README.md#spritejava)
+
+[SpriteSheet.java](https://github.com/kty990/GridEngine/edit/main/README.md#spritesheetjava)
+
+
 ---
 
 ## Documentation
@@ -81,6 +92,6 @@ This is a 2D engine developed for ease of use. The idea behind the engine itself
 
 ---
 
-## Spritesheet.java:
+## SpriteSheet.java:
 
 - Class used to store visual information about a readable picture file. Picture file is converted to pixel data.
