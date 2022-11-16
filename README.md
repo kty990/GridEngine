@@ -1,4 +1,4 @@
-# GridEngine v0.72.0 - Once files are uploaded, version will be set.
+# GridEngine v0.72.0 
 
 ---
 
