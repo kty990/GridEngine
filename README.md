@@ -20,7 +20,13 @@ This is a 2D engine developed for ease of use. The idea behind the engine itself
 
 ### CLASS DOCUMENTATION
 
-- n/a
+[Runner](https://github.com/kty990/GridEngine/blob/main/README.md#class-runner)
+
+[Screen](https://github.com/kty990/GridEngine/blob/main/README.md#class-drawcomparator)
+
+[Sprite.java](https://github.com/kty990/GridEngine/blob/main/README.md#class-sprite)
+
+[SpriteSheet.java](https://github.com/kty990/GridEngine/blob/main/README.md#class-spritesheet)
 
 ---
 
